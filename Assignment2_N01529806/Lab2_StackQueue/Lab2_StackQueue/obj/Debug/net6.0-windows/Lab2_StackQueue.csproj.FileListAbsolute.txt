@@ -1,0 +1,36 @@
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.exe
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.deps.json
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.runtimeconfig.json
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.dll
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.pdb
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.AssemblyReference.cache
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.Form1.resources
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.GenerateResource.cache
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.AssemblyInfo.cs
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.dll
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\refint\Lab2_StackQueue.dll
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.pdb
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.genruntimeconfig.cache
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\ref\Lab2_StackQueue.dll
+C:\Users\Parth\source\repos\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.Form2.resources
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.exe
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.deps.json
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.runtimeconfig.json
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\bin\Debug\net6.0-windows\Lab2_StackQueue.pdb
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.AssemblyReference.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.Form1.resources
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.Form2.resources
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.GenerateResource.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.AssemblyInfoInputs.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.AssemblyInfo.cs
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\refint\Lab2_StackQueue.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.pdb
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\Lab2_StackQueue.genruntimeconfig.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Lab2_StackQueue\Lab2_StackQueue\obj\Debug\net6.0-windows\ref\Lab2_StackQueue.dll

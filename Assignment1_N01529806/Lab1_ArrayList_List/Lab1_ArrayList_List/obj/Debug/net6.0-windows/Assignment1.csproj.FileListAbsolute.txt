@@ -1,0 +1,34 @@
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.Form1.resources
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.GenerateResource.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\ref\Assignment1.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.Form1.resources
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.GenerateResource.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Parth\Desktop\College\Sem2\Data strc\Assignment1_N01529806\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\ref\Assignment1.dll

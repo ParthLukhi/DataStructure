@@ -1,0 +1,17 @@
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Lab1_ArrayList_List.exe
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Lab1_ArrayList_List.deps.json
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Lab1_ArrayList_List.runtimeconfig.json
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Lab1_ArrayList_List.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\bin\Debug\net6.0-windows\Lab1_ArrayList_List.pdb
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.csproj.AssemblyReference.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.Form1.resources
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.csproj.GenerateResource.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.AssemblyInfo.cs
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\refint\Lab1_ArrayList_List.dll
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.pdb
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\Lab1_ArrayList_List.genruntimeconfig.cache
+C:\Users\Parth\source\repos\Lab1_ArrayList_List\Lab1_ArrayList_List\obj\Debug\net6.0-windows\ref\Lab1_ArrayList_List.dll
